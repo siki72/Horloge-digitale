@@ -3,9 +3,9 @@
 
  #### Tuto JavaScript, réalisation from scratch d'une Hrologe digitale: 
  - Vscode et ses exetentions.
- - Structure Html avec Css.
+ - Structure Html et style avec Css.
  - Selection des élements du DOM.
- - introductio Objet Date.
+ - Objet Date.
  - Création fonction `time`.
  
 
